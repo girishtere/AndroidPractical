@@ -1,5 +1,4 @@
 # Android resources for Theory and Practical for SYBSC CS students (2019-2020) of Thakur College of Science & Commerce, Mumbai
-<br>
 Use my programs only for reference<br>
 Develope your code and create your documentation file<br>
 Each Android experiment's document file must conatin <br>
